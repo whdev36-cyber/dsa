@@ -41,8 +41,8 @@ For each pass through the array:
 
 ### 📊 Example
 
-Original: `[5, 3, 8, 4]`
-Pass 1: `[3, 5, 4, 8]`
-Pass 2: `[3, 4, 5, 8]`
+Original: `[5, 3, 8, 4]`  
+Pass 1: `[3, 5, 4, 8]`  
+Pass 2: `[3, 4, 5, 8]`  
 Pass 3: No swaps → done.
 
